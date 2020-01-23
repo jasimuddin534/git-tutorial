@@ -6,4 +6,9 @@ class HelloWorld
     { 
         System.out.println("Hello, World"); 
     } 
+	
+	 public static void displayName(String name]) 
+    { 
+        System.out.println("Hello, World"); 
+    } 
 } 
